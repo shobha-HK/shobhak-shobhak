@@ -5,6 +5,7 @@ public class sample {
         System.out.println("shobha and komala and ranjita and nishchita and suma and ranjitha");
         System.out.println("shobha")
         System.out.println("shobha")
+        System.out.println("shobha")
     }
     
 }
